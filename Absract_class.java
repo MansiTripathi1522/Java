@@ -1,10 +1,10 @@
 abstract class Base{
     abstract void fun();
-   /* void add()
+    void add()
     {
         System.out.println("This is Add Method");
     }
-     */
+     
 }
 //Class 2
 class derived extends Base{
@@ -20,6 +20,6 @@ public class Absract_class
         //Base b= new derived();
         derived d=new derived();
         d.fun();
-       // d.add();
+        d.add();
     }
 }

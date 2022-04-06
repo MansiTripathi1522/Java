@@ -1,5 +1,4 @@
 //2. we cannot access a non-static variable in a static method.
-import java.lang.*;
 public class nonstatic {
     int a=10;
     static void method()
