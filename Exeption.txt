@@ -1,0 +1,8 @@
+we use five keywords in Exception handlung
+1 catch
+2 try
+3 throws
+4 throw
+5 finally
+
+system.exit we use this to kill the process
