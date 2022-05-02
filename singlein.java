@@ -9,7 +9,7 @@ class Rectangle // Super class
     {
         length=l;
         width=w;
-    }
+    } 
     void Dispaly_Area()
     {    
         System.out.println("The Area of Rectangle is : "+(length*width));

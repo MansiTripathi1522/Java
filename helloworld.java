@@ -1,7 +1,9 @@
-public class helloworld {
-    public static void main(String[] args)
+import java.applet.Applet;
+import java.awt.Graphics;
+public class helloworld extends Applet{
+    public void paint(Graphics g)
     {
-    System.out.println("Hello World");
+    g.drawString("Hello World", 150, 150);
     }
     
 }
