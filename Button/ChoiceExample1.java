@@ -15,7 +15,7 @@ public class ChoiceExample1 {
         f.setSize(400,400);
         f.setLayout(null);
         f.setVisible(true);
-    }
+        
     //main method
 public static void main(String args[])
 {
